@@ -1,4 +1,6 @@
-Implementation of Single-level and Multilevel sparsification. See paper here: http://arxiv.org/abs/1601.05527
+Implementation of Single-level and Multilevel sparsification. See paper 
+
+Emmanuel John, Ilya Safro "Single- and Multi-level Network Sparsification by Algebraic Distance", Journal of Complex Networks, Vol. 3(5), pp. 352-388, 2016
 
 Note: This project is still in development.
 
